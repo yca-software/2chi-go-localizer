@@ -1,11 +1,10 @@
 module github.com/yca-software/2chi-go-localizer
 
-go 1.26.4
+go 1.26.1
 
 require (
 	github.com/nicksnyder/go-i18n/v2 v2.6.1
 	github.com/stretchr/testify v1.11.1
-	github.com/yca-software/2chi/packages/go-core v0.0.0-20260612055311-aef522ed2ea2
 	golang.org/x/text v0.38.0
 )
 
